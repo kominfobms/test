@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="JALAN_LAINNYA" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>JALAN_LAINNYA</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="LineStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.98425</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>JALAN_LAINNYA</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>1551,298256</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL08</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL08</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2098308301977,-7.409288213415488,0 109.2097294938107,-7.409051527643637,0 109.2096628316397,-7.408847632067912,0 109.2095766702761,-7.408534954735479,0 109.209535340957,-7.408324654827477,0 109.2094944700189,-7.408001059477361,0 109.2094789310199,-7.407576135735444,0 109.2094759765473,-7.406883332079485,0 109.2094805453539,-7.406537548141046,0 109.2094678110281,-7.405892550054674,0 109.2094551083188,-7.405239896644054,0 109.2094472763104,-7.404805435255495,0 109.2094275233841,-7.40447427033434,0 109.2093882984129,-7.404217664737297,0 109.209333782985,-7.403949514940516,0 109.209248801622,-7.403629570423879,0 109.2090821469516,-7.403119832714922,0 109.2088636613505,-7.402627109725186,0 109.2086314005706,-7.402222366631718,0 109.2083855277236,-7.401865412765694,0 109.2081680326542,-7.401602348749981,0 109.2079141825824,-7.401321914358958,0 109.207589514838,-7.40101248817447,0 109.2073277261552,-7.400799003787792,0 109.2069033531417,-7.400493004198396,0 109.2065437224228,-7.40029634970423,0 109.2061457113277,-7.400109109962022,0 109.2058700397832,-7.400010396931159,0 109.2047329486316,-7.399590524387493,0 109.2039691260541,-7.399313775533775,0 109.2034426619395,-7.399127929181638,0 109.2030081973652,-7.398948195609863,0 109.2029132257318,-7.398900693812317,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>2677,484525</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL01</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL01</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2118902339724,-7.455008007737618,0 109.2116786020299,-7.454240105713153,0 109.2114821723803,-7.453505948395242,0 109.2112175457277,-7.452567888220632,0 109.2110693936543,-7.452032959368008,0 109.210955507564,-7.451747727934061,0 109.2107957739582,-7.451420972498141,0 109.2106204526132,-7.451155395682349,0 109.2103140081519,-7.450694847632398,0 109.2097039509718,-7.449831941148576,0 109.2093088727458,-7.44928989054724,0 109.2089750813638,-7.448764927561862,0 109.2086013290716,-7.44825970761936,0 109.2081378080652,-7.447574992527757,0 109.2078420675959,-7.44712367335381,0 109.2076699045138,-7.446836674280043,0 109.2074692447494,-7.446390333010506,0 109.2073238609779,-7.445930436305847,0 109.2072513806933,-7.445648433848634,0 109.2071948234795,-7.445222579908327,0 109.207168775635,-7.444838186231436,0 109.2071764285984,-7.444464646750329,0 109.2072146467797,-7.444118789413905,0 109.2073178470798,-7.443635402885787,0 109.2074654844143,-7.443162912963083,0 109.2075708796693,-7.442893877942087,0 109.2077394992773,-7.442542424232727,0 109.2080486675484,-7.441952698120879,0 109.2082958228636,-7.441525010086174,0 109.2085927255559,-7.440933702003001,0 109.2088540009251,-7.440427988156677,0 109.2089961576479,-7.440171349507503,0 109.2091673139216,-7.439950042763475,0 109.2093199966042,-7.439745501046116,0 109.2095927270456,-7.439440397409411,0 109.2099130127478,-7.43913395396055,0 109.2101115980523,-7.438957156594377,0 109.2103224036181,-7.438792656961434,0 109.2106268407416,-7.438611693599688,0 109.2108190300054,-7.438499173118505,0 109.2111724380618,-7.438345965450647,0 109.2114735223489,-7.438235414800928,0 109.2121937587272,-7.438023976066195,0 109.212821964792,-7.437812164965705,0 109.2132459968937,-7.437642398446403,0 109.2134995558844,-7.43752553080598,0 109.2138009737018,-7.437332304938502,0 109.2140055742771,-7.437184618763522,0 109.2143734350169,-7.436870708065405,0 109.2146351649692,-7.436629858127195,0 109.2149850210245,-7.436216356890678,0 109.2152274991066,-7.435873667493286,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>1395,425161</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL02</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL02</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2152274991066,-7.435873667493286,0 109.2154246800429,-7.435594995808518,0 109.2159262962326,-7.434823841845555,0 109.2163817175344,-7.434096901335259,0 109.2167644039337,-7.433528895243123,0 109.2170791386178,-7.433075442905824,0 109.217367303378,-7.43274436635305,0 109.2175891054666,-7.432514071053069,0 109.2178802633132,-7.432201378412062,0 109.2180758362909,-7.432009252908236,0 109.2185071132956,-7.431562391782733,0 109.2187643896239,-7.431283244652745,0 109.2195668447226,-7.430458174268628,0 109.2200442932477,-7.429971688043393,0 109.2204155997984,-7.42956132840307,0 109.2209578429825,-7.428981707647164,0 109.2213214230624,-7.428585094292244,0 109.2215125700732,-7.428348549323403,0 109.2218985767896,-7.427714714073157,0 109.2219667599973,-7.427541979714292,0 109.2221446004134,-7.427181366961732,0 109.2222888562468,-7.426780812302005,0 109.2223852135519,-7.426467334875679,0 109.2224463422147,-7.426141467742267,0 109.2224903719395,-7.425872181112329,0 109.2225011844957,-7.425774567409021,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>232,816638</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL03</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL03</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2225011844957,-7.425774567409021,0 109.2225190199385,-7.425613549845798,0 109.2225323231524,-7.425356387874705,0 109.2225399167619,-7.424993561440996,0 109.2225273735416,-7.424679647902064,0 109.2225010507524,-7.424359555357191,0 109.2224460711905,-7.423918395532194,0 109.2224083759147,-7.423678622488459,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>959,050153</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL04</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL04</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2224083759147,-7.423678622488459,0 109.2223533437782,-7.423328573375331,0 109.2222923462533,-7.42285830007779,0 109.2222075833584,-7.422195020035558,0 109.2221449724377,-7.421744643498811,0 109.2221191315078,-7.421686360349239,0 109.2220902297697,-7.421626534213321,0 109.2220720580664,-7.421568281757987,0 109.2220301508556,-7.421309368996917,0 109.2219755351557,-7.420777879199924,0 109.2218626630859,-7.419857271557993,0 109.2217211107932,-7.418821722293467,0 109.2215597428701,-7.417755471852052,0 109.2215109668277,-7.417297496216863,0 109.2214227306281,-7.416735250962097,0 109.2213507329645,-7.416330768142119,0 109.2212462681242,-7.415990458991888,0 109.2211460963621,-7.415726720089908,0 109.2210867961074,-7.415597874789401,0 109.220879668288,-7.415232658557531,0 109.2208557533763,-7.415199642550706,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>636,671062</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL05</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL05</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2208557533763,-7.415199642550706,0 109.2206661213662,-7.414937844006154,0 109.2204523665255,-7.414695084431337,0 109.2202048265204,-7.414462906528359,0 109.2199479664699,-7.414259781527742,0 109.2197552300024,-7.414130402890399,0 109.2195072899008,-7.413997740786851,0 109.2193129085989,-7.413895913166662,0 109.2189009809064,-7.413731973982142,0 109.2182102543041,-7.413481178337116,0 109.2172944062225,-7.413145272848467,0 109.2163265166576,-7.412783129208291,0 109.2158235346259,-7.412613098286349,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>779,459846</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL06</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL06</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2158235346259,-7.412613098286349,0 109.2157214989756,-7.412578605984082,0 109.2146831338171,-7.412197804231968,0 109.2139924204298,-7.411945472452977,0 109.2132328616088,-7.411649994672111,0 109.2124517079275,-7.411385049051913,0 109.2119616698355,-7.411194762854539,0 109.2116737900207,-7.411078778383536,0 109.2114915899984,-7.410999962463617,0 109.2113324269911,-7.410913585471685,0 109.2111059770732,-7.410777943719331,0 109.2108781298194,-7.410608613924142,0 109.2106091429317,-7.410371753008083,0 109.210360077841,-7.410139565218354,0 109.2102593450108,-7.410016677405405,0 109.2101495529083,-7.409858540082592,0 109.2100352585862,-7.409675887578395,0 109.2098601646891,-7.409356728623132,0 109.2098308301977,-7.409288213415488,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Rel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rel</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Leng</td>
+
+<td>599,435588</td>
+
+</tr>
+
+<tr>
+
+<td>JENIS</td>
+
+<td>Rel</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Hirarki</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr>
+
+<td>Kode</td>
+
+<td>REL07</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Nama_Jalan</td>
+
+<td>REL07</td>
+
+</tr>
+
+<tr>
+
+<td>Fungsi_Jal</td>
+
+<td>Rel KA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>GSB</td>
+
+<td>0</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle00</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						109.2029132257318,-7.398900693812317,0 109.2027690382494,-7.398828576072437,0 109.2023961229908,-7.398599331442702,0 109.202107499485,-7.398385737534674,0 109.2018571948491,-7.398178038564878,0 109.2015497648526,-7.397874420364627,0 109.201324553958,-7.39762471998595,0 109.2011167755261,-7.397331072433155,0 109.2007663691495,-7.396751696554454,0 109.2004236021497,-7.396180005951703,0 109.1999322246336,-7.395379975174546,0 109.19956285142,-7.394750763666261,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
