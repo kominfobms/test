@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="perkotaan_sokaraja_kembaran" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>perkotaan_sokaraja_kembaran</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ffff</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>perkotaan_sokaraja_kembaran</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>LUAS</td>
+
+<td>104,957</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RTGL</td>
+
+<td>Permukiman Perkotaan</td>
+
+</tr>
+
+<tr>
+
+<td>Simbol</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Simbol_hut</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Kaw_Lindun</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Kembaran</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								109.2795149796656,-7.402292974732406,0 109.2795934114549,-7.402267978714768,0 109.2799730805318,-7.404399304773412,0 109.2807406795796,-7.406532129680581,0 109.2843680900596,-7.4048035094813,0 109.2847495295354,-7.406483054299877,0 109.2853960786934,-7.406485545256961,0 109.2898634943318,-7.404889193223391,0 109.2908852888059,-7.408184735934935,0 109.2939934659712,-7.406970370682299,0 109.2956093528485,-7.407105644670065,0 109.2942587882462,-7.405228762695518,0 109.2944621807515,-7.4027769583331,0 109.293501790095,-7.400320696625474,0 109.2908549410198,-7.399277884597819,0 109.2853556147653,-7.4002248757999,0 109.2819888630139,-7.401438189057049,0 109.2799196836208,-7.401494744511021,0 109.2795400722615,-7.401600192932717,0 109.2795944121997,-7.402009817816492,0 109.2795149796656,-7.402292974732406,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NAME</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>LUAS</td>
+
+<td>312,706</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RTGL</td>
+
+<td>Permukiman Perkotaan</td>
+
+</tr>
+
+<tr>
+
+<td>Simbol</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Simbol_hut</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Kaw_Lindun</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Keterangan</td>
+
+<td>Sokaraja</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								109.3062942788551,-7.460484515068784,0 109.306615209486,-7.46005024912257,0 109.3063223327084,-7.459598239355413,0 109.3056410170007,-7.458007720230663,0 109.305507303227,-7.457027017617915,0 109.3060186370356,-7.456852542550122,0 109.3058432287868,-7.456499002015655,0 109.3055906156544,-7.45579229717018,0 109.3058847714058,-7.455911046931301,0 109.3059840293526,-7.455636973821433,0 109.3057744786739,-7.454904704045295,0 109.3051720603543,-7.454505419094196,0 109.304642276771,-7.45437106320797,0 109.3041561188547,-7.454383902454411,0 109.3034931403703,-7.454410765859979,0 109.3029183175433,-7.454496777828498,0 109.3020497944091,-7.454346416399404,0 109.3020976106995,-7.453405618867314,0 109.3018913865999,-7.45340482732313,0 109.3020436737396,-7.452111562845239,0 109.3003946800925,-7.45189939229375,0 109.3003827840976,-7.451164205696212,0 109.300117413652,-7.451221997650096,0 109.298540033936,-7.451539397163908,0 109.2969065155799,-7.451136137640343,0 109.295372360517,-7.451703639036585,0 109.2947977696419,-7.451730830668248,0 109.2939879512246,-7.451639492504182,0 109.2936196969538,-7.451638072550817,0 109.2931185296932,-7.4517243561897,0 109.2923659243404,-7.452074318576117,0 109.2919684945221,-7.451999270789919,0 109.2915865928036,-7.451718444095605,0 109.2907046241802,-7.448918248783768,0 109.288957353129,-7.449294858379359,0 109.2875669874183,-7.449378993720617,0 109.2875204785351,-7.449342276096443,0 109.2866824540698,-7.44938383460989,0 109.2843391206048,-7.449698217081643,0 109.2800494169308,-7.450519620073906,0 109.2776613161297,-7.450980817199334,0 109.2778671918863,-7.451069834337664,0 109.2786753343867,-7.45158757158204,0 109.2791742622167,-7.45207469994784,0 109.2795545469903,-7.452767203919364,0 109.27869843256,-7.453007284548702,0 109.2789337059076,-7.453112752107873,0 109.2790110417064,-7.453426709656987,0 109.2792185976219,-7.453924140205485,0 109.279346980724,-7.454578091143159,0 109.2793700036263,-7.455388460597878,0 109.2793947616037,-7.455754489768118,0 109.279681492021,-7.456095400059873,0 109.2797323351643,-7.456487668810332,0 109.2798073240103,-7.457402792794089,0 109.2796728153415,-7.458317101640235,0 109.2795131396086,-7.458969931747971,0 109.2805345431034,-7.458947767755668,0 109.2805529871904,-7.458992150777272,0 109.2827552471098,-7.458384630735954,0 109.2845184159108,-7.457848014144336,0 109.2850550325024,-7.457694695118151,0 109.2852850110417,-7.458537949762119,0 109.2868182013035,-7.458844587814482,0 109.2868182013108,-7.458903034244683,0 109.2869056658292,-7.45889610051809,0 109.2875323995564,-7.459351590315079,0 109.2896949200504,-7.459952428346807,0 109.2906723129647,-7.460025911082491,0 109.2916843528692,-7.460169227555233,0 109.2930461006692,-7.460174488634807,0 109.2962922706238,-7.460465821535235,0 109.2969247790787,-7.466176607022073,0 109.2973205545969,-7.466203901071156,0 109.2994670209633,-7.46620390107116,0 109.300846892199,-7.466203901071137,0 109.3017305646434,-7.465732609562135,0 109.3012515572563,-7.460480554058933,0 109.3062942788551,-7.460484515068784,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
